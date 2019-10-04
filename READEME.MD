@@ -21,3 +21,4 @@
 5. 05-dead-queue，设置死信队列，处理死信问题，死信队列也可以扩展为延迟队列
 6. 06-priority-queue，优先级队列，还没测试
 7. 07-message-confirm，消息确认的两种机制
+8. 08-lazy-queue，惰性队列的使用
