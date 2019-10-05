@@ -1,8 +1,8 @@
 # RabbitMQ-Demo
-《RabbitMQ实战指南》知识点总结
+[《RabbitMQ实战指南》快速入门](https://www.yuque.com/liueleven/ehffhb/pul5yh)
 
 
-[《RabbitMQ实战指南》](https://book.douban.com/subject/27591386/)笔记
+[《RabbitMQ实战指南》](https://book.douban.com/subject/27591386/)
 
 书中作者提到了一句话：知是行之始，行是知之成。诸君共勉
 
