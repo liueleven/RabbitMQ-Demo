@@ -22,3 +22,4 @@
 6. 06-priority-queue，优先级队列，还没测试
 7. 07-message-confirm，消息确认的两种机制
 8. 08-lazy-queue，惰性队列的使用
+9. 09-springboot-rabbitmq，SpringBoot中使用Rabbitmq

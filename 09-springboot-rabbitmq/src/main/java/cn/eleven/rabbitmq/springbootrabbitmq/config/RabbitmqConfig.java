@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.net.InetAddress;
 
 /**
- * @description: 一定要写注释啊
+ * @description: RabbitMQ 配置及初始化
  * @date: 2019-10-25 17:05
  * @author: 十一
  */

@@ -6,7 +6,7 @@ import org.springframework.amqp.rabbit.core.ChannelAwareMessageListener;
 
 
 /**
- * @description: 消费者
+ * @description: 消费者 处理消息
  * @date: 2019-10-28 09:11
  * @author: 十一
  */

@@ -1,0 +1,13 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+  application:
+    name: springboot-rabbitmq
+
+server:
+  port: 8888
+
