@@ -60,7 +60,7 @@ public class RabbitProducer {
         // 参数三：用来绑定队列和交换器的路由键
         channel.queueBind(QUEUE_NAME,EXCHANGE_NAME,ROUTING_KEY);
         String message = "Hello World，测试消息没有正确被投递，时间：" + System.currentTimeMillis();
-        // 这里可以构造很多参数
+        // 这里可以构造很多自定义参数
         AMQP.BasicProperties basicProperties = new AMQP.BasicProperties.Builder()
                 .contentType("text/plain")
                 // 2 为持久化
